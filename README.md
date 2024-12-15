@@ -40,7 +40,7 @@
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Link do deploy da aplicação: https://certificates-for-everyone-womakerscode.netlify.app/
 
 ... 
 
