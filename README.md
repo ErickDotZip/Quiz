@@ -88,8 +88,11 @@ Objetivo: Criar uma conta para começar a usar o Life Log.
 Fluxo Principal:
 
 1 - O usuário abre o aplicativo e seleciona a opção "Cadastrar".
+
 2 - Na tela de cadastro, insere seu nome de usuário, email e cria uma senha segura.
+
 3 - Confirma os dados e clica no botão "Registrar".
+
 4 - O sistema valida as informações e redireciona o usuário para a tela inicial.
 
 ## JSON :floppy_disk:
