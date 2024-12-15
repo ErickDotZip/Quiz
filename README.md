@@ -128,6 +128,6 @@ Liste o time responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [SENAI License]() (https://www.senaibahia.com.br)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2024 - Life Log
