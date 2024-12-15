@@ -79,6 +79,8 @@ $ npm test, rspec, etc
 
 ## Casos de Uso
 
+Cadastro de Usuário.
+
 Ator Principal: Usuário do app.
 
 Objetivo: Criar uma conta para começar a usar o Life Log.
