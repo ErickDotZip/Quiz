@@ -59,12 +59,12 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/RONALDWITHER/Appdiariopessoal.git
 ```
 
-... 
-
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
+```
+Após clonar aperte a tecla (F5) para rodar a aplicação
+```
 
 ## Como rodar os testes
 
