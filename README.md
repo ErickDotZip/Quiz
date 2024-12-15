@@ -27,21 +27,19 @@
 <p align="justify">
   O Life Log é um diário digital completo para registrar e organizar sua vida de forma prática e criativa. Com ele, você pode:
 
-Anotar pensamentos e momentos importantes em textos personalizados.
-Adicionar fotos para dar mais vida às suas lembranças.
-Criar lembretes e receber notificações, garantindo que suas metas e compromissos sejam sempre lembrados.
+Anotar pensamentos e momentos importantes em textos personalizados,
+adicionar fotos para dar mais vida às suas lembranças,
+criar lembretes e receber notificações, garantindo que suas metas e compromissos sejam sempre lembrados.
 O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina organizada, tudo em um único app intuitivo e elegante.
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Criar anotações
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Adicionar imagens  
 
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Criar lembretes  
 
 ## Layout ou Deploy da Aplicação :dash:
 
