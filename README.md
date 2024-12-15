@@ -79,9 +79,16 @@ $ npm test, rspec, etc
 
 ## Casos de Uso
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
+Ator Principal: Usuário do app.
 
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
+Objetivo: Criar uma conta para começar a usar o Life Log.
+
+Fluxo Principal:
+
+O usuário abre o aplicativo e seleciona a opção "Cadastrar".
+Na tela de cadastro, insere seu nome de usuário, email e cria uma senha segura.
+Confirma os dados e clica no botão "Registrar".
+O sistema valida as informações e redireciona o usuário para a tela inicial.
 
 ## JSON :floppy_disk:
 
