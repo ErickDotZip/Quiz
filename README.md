@@ -59,8 +59,6 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ...
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
