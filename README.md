@@ -22,7 +22,7 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-## Descrição do projeto 
+## Descrição do Projeto 
 
 <p align="justify">
   O Life Log é um diário digital completo para registrar e organizar sua vida de forma prática e criativa. Com ele, você pode:
@@ -51,7 +51,7 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
 
 Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
-## Pré-requisitos
+## Pré-Requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
