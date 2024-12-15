@@ -5,7 +5,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/database-blue?style=for-the-badge&logo=firebase&logoColor=red&label=firebase&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/3.7.0--232.0-blue?style=for-the-badge&logo=dart&logoColor=blue&label=dart&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/%3E50-blue?style=for-the-badge&label=testes&labelColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%3E50-blue?style=for-the-badge&label=testes&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/conclu%C3%ADdo-blue?style=for-the-badge&label=status&labelColor=black">
 </p>
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
