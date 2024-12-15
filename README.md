@@ -105,7 +105,7 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [Flutter]([https://pt-br.reactjs.org/docs/create-a-new-react-app.html](https://docs.flutter.dev/get-started/install?_gl=1*532kv8*_gcl_aw*R0NMLjE3MzQyMzA1NDMuQ2p3S0NBaUE5dlM2QmhBOUVpd0FKcG5YdzdncmRVV3FGQVdwMkIyRlcyUl9OVFp0NG5wY0wteV9nTnZoWndYRmk2NUNiQmw2ZzNtNmJSb0NzS0VRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3MzQyMzA1NDMuQ2p3S0NBaUE5dlM2QmhBOUVpd0FKcG5YdzdncmRVV3FGQVdwMkIyRlcyUl9OVFp0NG5wY0wteV9nTnZoWndYRmk2NUNiQmw2ZzNtNmJSb0NzS0VRQXZEX0J3RQ..*_ga*MTYyOTkxMDk4MS4xNzI3ODIyNDU5*_ga_04YGWK0175*MTczNDIzMDU0Mi40LjAuMTczNDIzMDU0Mi4wLjAuMA..))
+- [Flutter](https://www.flutter.dev)
 - [Firebase](https://react-pdf.org/)
 
 ...
