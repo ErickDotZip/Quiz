@@ -114,6 +114,7 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Flutter](https://www.flutter.dev)
+- Dart
 - [Firebase](https://firebase.google.com)
 
 ...
