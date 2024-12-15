@@ -25,7 +25,12 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  O Life Log é um diário digital completo para registrar e organizar sua vida de forma prática e criativa. Com ele, você pode:
+
+Anotar pensamentos e momentos importantes em textos personalizados.
+Adicionar fotos para dar mais vida às suas lembranças.
+Criar lembretes e receber notificações, garantindo que suas metas e compromissos sejam sempre lembrados.
+O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina organizada, tudo em um único app intuitivo e elegante.
 </p>
 
 ## Funcionalidades
