@@ -5,7 +5,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/database-blue?style=for-the-badge&logo=firebase&logoColor=red&label=firebase&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/3.7.0--232.0-blue?style=for-the-badge&logo=dart&logoColor=blue&label=dart&labelColor=black">
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E50&color=GREEN&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
