@@ -8,7 +8,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/conclu%C3%ADdo-blue?style=for-the-badge&label=status&labelColor=black">
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning: (concluído)
 
 ### Tópicos 
 
