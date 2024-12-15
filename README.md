@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/framework-blue?style=for-the-badge&logo=flutter&logoColor=blue&label=dart&labelColor=black">
-  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/database-blue?style=for-the-badge&logo=firebase&logoColor=red&label=firebase&labelColor=black">
   <img src="http://img.shields.io/static/v1?label=License&message=SENAI&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
@@ -106,7 +106,7 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Flutter](https://www.flutter.dev)
-- [Firebase](https://react-pdf.org/)
+- [Firebase](https://firebase.google.com)
 
 ...
 
