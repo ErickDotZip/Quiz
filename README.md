@@ -61,6 +61,7 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/RONALDWITHER/Appdiariopessoal.git
 ```
+
 Após clonar aperte a tecla (F5) para rodar a aplicação
 
 ## Como rodar os testes
