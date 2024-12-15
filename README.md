@@ -53,6 +53,10 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 :warning: [Node](https://nodejs.org/en/download/)
 
+:warning: [Visual Studio Code](https://code.visualstudio.com)
+
+:warning: [Flutter](https://www.flutter.dev)
+
 ...
 
 Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
