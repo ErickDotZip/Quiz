@@ -54,7 +54,6 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Calend%C3%A1rio.jpeg?raw=true" alt="Calendário" width="200"/>
 </p>
 
-
 ... 
 ## Pré-Requisitos
 
