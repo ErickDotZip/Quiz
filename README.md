@@ -17,7 +17,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-dash)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -44,7 +44,16 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
 
 ## Layout da Aplicação :dash:
 
-![image alt](https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Calend%C3%A1rio.jpeg?raw=true)
+<p align="center">
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Login.jpeg?raw=true" alt="Tela de Login" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Cadastro.jpeg?raw=true" alt="Tela de Cadastro" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Recupera%C3%A7%C3%A3o%20de%20Senha.jpeg?raw=true" alt="Recuperação de Senha" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20Inicial.jpeg?raw=true" alt="Tela Inicial" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Drawer.jpeg?raw=true" alt="Drawer" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Calend%C3%A1rio.jpeg?raw=true" alt="Calendário" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Anota%C3%A7%C3%B5es.jpeg?raw=true" alt="Tela de Anotações" width="200"/>
+</p>
+
 
 ... 
 ## Pré-Requisitos
