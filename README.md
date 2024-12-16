@@ -128,7 +128,13 @@ flutter run
 ...
 ## Resolvendo Problemas :exclamation:
 
+Para que o authentication com o Google fosse possível, foi necessário uma chave de acesso, o SHA-1, para consegui-la é necessário colocar o comando:
 
+```
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+```
+
+Para que seja executado com sucesso, é necessário baixar o Java Development Kit (JDK)
 
 ...
 ## Tarefas em aberto
