@@ -75,7 +75,7 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/RONALDWITHER/Appdiariopessoal.git
 ```
-Após clonar, dê downgrade no flutter até a versão [Versão 3.24.5] (Por motivo de bugs na nova versão do framework):
+Após clonar, dê downgrade no flutter até a versão [3.24.5] (Por motivo de bugs na nova versão do framework):
 
 ```
 flutter --versions
