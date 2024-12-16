@@ -102,21 +102,21 @@ flutter run
 ...
 ## Casos de Uso
 
-Cadastro de Usuário.
+- Cadastro de Usuário.
 
-Ator Principal: Usuário do app.
+  Ator Principal: Usuário do app.
 
-Objetivo: Criar uma conta para começar a usar o Life Log.
+  Objetivo: Criar uma conta para começar a usar o Life Log.
 
-Fluxo Principal:
+  Fluxo Principal:
 
-1 - O usuário abre o aplicativo e seleciona a opção "Cadastrar".
+  1 - O usuário abre o aplicativo e seleciona a opção "Cadastrar".
 
-2 - Na tela de cadastro, insere seu nome de usuário, email e cria uma senha segura.
+  2 - Na tela de cadastro, insere seu nome de usuário, email e cria uma senha segura.
+  
+  3 - Confirma os dados e clica no botão "Registrar".
 
-3 - Confirma os dados e clica no botão "Registrar".
-
-4 - O sistema valida as informações e redireciona o usuário para a tela inicial.
+  4 - O sistema valida as informações e redireciona o usuário para a tela inicial.
 
 ...
 ## Linguagens, dependencias e libs utilizadas :books:
