@@ -117,13 +117,7 @@ Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento d
 ...
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
+:memo: Adição de notificações
 
 ...
 ## Desenvolvedores/Contribuintes :octocat:
