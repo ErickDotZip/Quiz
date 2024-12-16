@@ -49,9 +49,9 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Cadastro.jpeg?raw=true" alt="Tela de Cadastro" width="200"/>
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Recupera%C3%A7%C3%A3o%20de%20Senha.jpeg?raw=true" alt="Recuperação de Senha" width="200"/>
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20Inicial.jpeg?raw=true" alt="Tela Inicial" width="200"/>
+  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Anota%C3%A7%C3%B5es.jpeg?raw=true" alt="Tela de Anotações" width="200"/>
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Drawer.jpeg?raw=true" alt="Drawer" width="200"/>
   <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Calend%C3%A1rio.jpeg?raw=true" alt="Calendário" width="200"/>
-  <img src="https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Tela%20de%20Anota%C3%A7%C3%B5es.jpeg?raw=true" alt="Tela de Anotações" width="200"/>
 </p>
 
 
@@ -62,7 +62,7 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
 
 :warning: [Visual Studio Code](https://code.visualstudio.com)
 
-:warning: [Flutter](https://www.flutter.dev)
+:warning: [Flutter](https://www.flutter.dev) [Versão 3.24.5]
 
 :warning: [Gradle](https://gradle.org)
 
@@ -76,8 +76,16 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/RONALDWITHER/Appdiariopessoal.git
 ```
+Após clonar, dê downgrade no flutter até a versão [Versão 3.24.5] (Por motivo de bugs na nova versão do framework):
 
-Após clonar aperte a tecla (F5) para rodar a aplicação
+```
+flutter --versions
+```
+```
+flutter downgrade
+```
+
+Após isso, aperte a tecla (F5) para rodar a aplicação
 
 ...
 ## Como rodar os testes :mag_right:
@@ -113,7 +121,7 @@ Fluxo Principal:
 ...
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [Flutter](https://www.flutter.dev)
+- [Flutter](https://www.flutter.dev) [Versão 3.24.5]
 - [Dart](https://www.flutter.dev)
 - [Firebase](https://firebase.google.com)
 - [Gradle](https://gradle.org)
@@ -121,7 +129,7 @@ Fluxo Principal:
 ...
 ## Resolvendo Problemas :exclamation:
 
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+
 
 ...
 ## Tarefas em aberto
