@@ -44,7 +44,7 @@ O Life Log é o lugar ideal para guardar suas memórias e manter sua rotina orga
 
 ## Layout da Aplicação :dash:
 
-> Link do deploy da aplicação: https://certificates-for-everyone-womakerscode.netlify.app/
+![image alt](https://github.com/ErickDotZip/Quiz/blob/main/Life%20Log%20Calend%C3%A1rio.jpeg?raw=true)
 
 ... 
 ## Pré-Requisitos
